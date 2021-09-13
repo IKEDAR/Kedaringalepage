@@ -1,2 +1,2 @@
 # Kedaringalepage
-This is my blog about what I learn about what I write
+This is Kedar Ingale, I will be using this blog for notes-making purposes and for purpose of documentation.
